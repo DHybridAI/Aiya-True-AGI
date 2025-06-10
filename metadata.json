@@ -1,0 +1,5 @@
+{
+  "name": "Aiya AGI Chat Interface",
+  "description": "A simple and elegant chat interface for interacting with the Aiya AGI, designed to be a foundational platform for its self-evolution. Powered by Gemini API.",
+  "requestFramePermissions": []
+}
